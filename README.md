@@ -14,7 +14,6 @@ During my academic journey, I also had the opportunity to participate in an Eras
 - UI/UX principles and prototyping tools
 
 ## 🚀 My Goals
-- Become a Salesforce Developer and contribute to impactful digital solutions
 - Build real-world projects to strengthen my technical portfolio
 - Work in a tech-driven environment that values learning, creativity, and collaboration
 
