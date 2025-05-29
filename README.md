@@ -22,4 +22,4 @@ During my academic journey, I also had the opportunity to participate in an Eras
 I’m currently working on small projects to improve my coding and problem-solving skills. You’ll soon find them here!
 
 ## 📫 Let’s connect
-Feel free to connect with me on [LinkedIn](https://linkedin.com/frankamyslihaka) or explore my work here on GitHub.
+Feel free to connect with me on [LinkedIn] https://linkedin.com/frankamyslihaka or explore my work here on GitHub.
